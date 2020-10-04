@@ -2,9 +2,9 @@ FROM alpine
 
 ENV PORT    3000
 
-ADD miniso /miniso
+ADD dearest /dearest
 ADD start.sh /start.sh
 ADD base.txt /base.txt
-RUN chmod 700 /miniso
+RUN chmod 700 /dearest
 RUN chmod +x /start.sh
 CMD /start.sh

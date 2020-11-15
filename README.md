@@ -1,5 +1,1 @@
-run run.sh.
-a3cad631-32db-2977-0601-5e0021ace2f4
-
-
-vmess://eyJhZGQiOiJ6aWppYW5raW50by1jNzhkMzMuZXUxLmtpbnRvLmlvIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImEzY2FkNjMxLTMyZGItMjk3Ny0wNjAxLTVlMDAyMWFjZTJmNCIsIm5ldCI6IndzIiwicGF0aCI6IiIsInBvcnQiOiI0NDMiLCJwcyI6ImtpbnRvaHViLOasp+a0sua0sixrYmwiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+r

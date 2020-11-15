@@ -1,6 +1,6 @@
 FROM alpine
 
-ENV PORT    3000
+ENV PORT    8888
 
 ADD dearest /dearest
 ADD start.sh /start.sh
